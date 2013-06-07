@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+.pageFormContent dl { float:left; display:block; width:220px; height:21px; margin:0; padding:5px 0; position:relative;}
+.pageFormContent dt { float:left; width:80px; padding:0 5px; line-height:21px;}
+.pageFormContent dd {display:block;line-height:21px;width:130px;float:left;}
+.pageFormContent dd input[type="text"]{width:110px;}
+.pageFormContent dd input[type="radio"],input[type="checkbox"]{width:20px; text-align: left}
+ 
+.pageFormContent dl.nowrap, .nowrap dl{width:100%; height:auto; clear: both;}
+.pageFormContent dl.nowrap dd, .nowrap dd {width: 560px;}

@@ -1,0 +1,5 @@
+driver=com.mysql.jdbc.Driver 
+jdbcUrl = jdbc:mysql://localhost/test?characterEncoding=GBK&zeroDateTimeBehavior=convertToNull
+user = root
+password =root
+devMode = true
